@@ -38,7 +38,7 @@ module.exports = {
           items: [
             {
               label: "规范",
-              to: "docs/",
+              to: "docs/norm",
             },
             {
               label: "taotsis-cli",
