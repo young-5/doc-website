@@ -336,3 +336,7 @@ eg:
       // }
       // let output = identity<string>('myString')
       // let output2 = identity('myString')
+
+## react ts 类型
+
+1. 图片 HTMLImageElement File string
